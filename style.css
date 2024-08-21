@@ -1,0 +1,175 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+
+
+}
+ul{
+    display:flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+.nav-link:hover{
+    color: aqua;
+
+    
+}
+#about{
+    color:#00b39b;  
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+#title{
+    color: #00b39b;
+}
+#card{
+    display: flex;
+    gap: 20px;
+    
+
+}
+.card-title{
+   color: white;
+   font-size: 1.5rem;
+}
+.card-text{
+    color: white;
+    font-size: 1.5rem;
+ 
+ }
+ .card-link{
+    color: white;
+    margin-top: 10px;
+ 
+ }
+.card{
+    padding: 20px;
+ 
+ }
+select{
+    background: transparent;
+    border: none;
+    margin-top: 50px;
+    color: white;
+ 
+ }
+ select option{ color: black;}
+
+ .fa-solid{
+    color: white;
+    margin-left: 15px;
+ }
+ #r2{
+    display: flex;
+  
+
+ }
+
+ #r3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+ }
+ #r4{
+    display: flex;
+    gap: 50px;
+ }
+ 
+ #div1{
+    justify-content: center;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 150px;
+  padding-top: 80px;
+ }
+ #div2{
+    justify-content: center;
+  text-align: center;
+  
+ 
+ }
+ #div{
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg, rgba(0, 204, 177, .01) 5%, rgba(61, 199, 223, .1));
+    padding: 1.875em 0 .625em;
+    overflow: hidden;
+    margin: 3.125rem auto 5.5rem;
+   
+
+ 
+ }
+ #div5{
+    background:white;
+    background-image: linear-gradient(-45deg, rgba(0, 204, 177, .01) 5%, rgba(61, 199, 223, .1));
+    padding: 1.875em 0 .625em;
+    overflow: hidden;
+    margin: 3.125rem auto 5.5rem;
+    gap: 20px;
+
+ }
+ #r7{
+   color: #00b39b;
+    justify-content: center;
+    text-align: center;
+ }
+ #r8{
+    color: black;
+     justify-content: center;
+     text-align: center;
+  }
+  #r9{
+   display:flex;
+    justify-content: center;
+    text-align: center;
+    
+ }
+ #r10{
+   height: 400px;
+   width:400px ;
+   justify-content: center;
+   text-align: center;
+   
+}
+#r11{
+   height: 400px;
+   width:400px ;
+   justify-content: center;
+   text-align: center;
+}
+#r12{
+   height: 400px;
+   width:400px ;
+   justify-content: center;
+   text-align: center;
+}
+#r13{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   gap: 50px;
+   padding: 30px 30px 30px 30px;
+}
+footer{
+   display: flex;
+   align-items:center;
+   padding-left: 10px;
+   padding-right: 10px;
+   margin-left: 10%;
+   margin-top: 10px;
+   flex-direction: column;
+}
+
+
+
+ 
